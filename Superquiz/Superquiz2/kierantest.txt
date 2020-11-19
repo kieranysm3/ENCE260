@@ -1,0 +1,28 @@
+Station information:
+Name,Agent Number,Network Number,Latitude (dec.deg),Longitude (dec.deg),Height (m),Posn_Precision,Observing Authority
+Christchurch Aero,4843,H32451,-43.493,172.537,37,G,N/A
+Note: Position precision types are: "W" = based on whole minutes, "T" = estimated to tenth minute,
+"G" = derived from gridref , "E" = error cases derived from gridref,
+"H" = based on GPS readings (NZGD49), "D" = by definition i.e. grid points.
+
+Max_min: Daily
+Station,Date(NZST),Tmax(C),Period(Hrs),Tmin(C),Period(Hrs),Tgmin(C),Period(Hrs),Tmean(C),RHmean(%),Period(Hrs),Freq
+4843,20170101:0800,27.5,24,16.4,24,16.5,24,-,-,-,D
+4843,20171231:0800,20.8,24,13.8,24,10.7,24,-,-,-,D
+4843,20171226:0800,30.9,24,11.7,24,10.8,24,-,-,-,D
+4843,20170112:0800,30.2,24,16.4,24,16.3,24,-,-,-,D
+4843,20170113:0800,29.8,24,9.3,24,4.8,24,-,-,-,D
+4843,20170114:0800,23.2,24,11.8,24,10.7,24,-,-,-,D
+4843,20170115:0800,26.4,24,15.0,24,12.4,24,-,-,-,D
+4843,20170116:0800,28.5,24,8.2,24,5.4,24,-,-,-,D
+4843,20170117:0800,25.8,24,15.3,24,10.9,24,-,-,-,D
+4843,20170118:0800,28.7,24,16.0,24,13.9,24,-,-,-,D
+4843,20170119:0800,20.6,24,13.3,24,9.6,24,-,-,-,D
+4843,20171210:0800,31.0,24,19.0,24,16.2,24,-,-,-,D
+
+UserName is = trampgeek
+Total number of rows output = 365
+Number of rows remaining in subscription = 1999635
+Copyright NIWA 2018 Subject to NIWA's Terms and Conditions
+See: http://clifloecd1.niwa.co.nz/pls/niwp/doc/terms.html
+Comments to: cliflo@niwa.co.nz
